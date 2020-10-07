@@ -32,8 +32,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. windows 10]
- - Host [e.g. bitwig, logic]
- - Version [e.g. 2.4]
+ - Host: [e.g. bitwig, logic]
+ - Version: [e.g. 2.4]
 
 **Additional context**
 Add any other context about the problem here.
